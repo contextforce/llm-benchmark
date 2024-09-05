@@ -13,7 +13,8 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 | Code | HumanEval | Python code generation |
 |  | Natural2Code | Python code generation. New held out dataset HumanEval-like, not leaked on the web |
 
-
+<br>
+<br>
 ## LLM Quality Benchmark Leaderboard
 
 | Model | Multi-choice Qs <br> (MMLU) | Reasoning <br> (HellaSwag) | Python coding <br> (HumanEval) | Future Capabilities <br> (BBHard) | Grade school math <br> (GSM-8k) | Math Problems <br> (MATH) |
@@ -36,7 +37,8 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 | Gemini 1.5 Flash | 78.90% | 86.5% | 74.3| 85.50% | 86.2 | 54.9% |
 | GPT-4T 2024-04-09 | 86.5% | - | - | 87.60% | - | 72.2% | 
 
-
+<br>
+<br>
 ## LLM Cost Effectiveness Leaderboard
 
 | Model | Provider | Input | Quality | TPS | Context | RPM | TPM | RPD | Input (1M) | output (1M) | cache (1M) |
@@ -55,7 +57,8 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 | llama-3.1-70b | Meta/groq |  | 95 | 250 | 128k | 100 | 131072 | 14400 | $0.64 |  |  |
 
 
-
+<br>
+<br>
 
 
 
