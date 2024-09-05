@@ -29,6 +29,7 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 | Mixtral 8x7B | 70.60% | 84.40% | 40.20% | 60.76% | 74.40% | 28.40% |
 | GPT-4o | 88.7% | - | 90.2% | - | - | 76.60% |
 | GPT-4o mini | 82% | - | 87.00% | - | - | 70.20% |
+| Llama 3.1 Instruct - 405B | 88.6% | - | 89% | 61% | 96.8 | 73.8% |
 | Llama 3 Instruct - 8B | 68.40% | - | 62% | 61% | 79.60% | 30% |
 | Grok 1.5 | 73.00% | - | 63% | - | 62.90% | 23.90% |
 | Mistral Large | 81.2% | 89.2% | 45.1% | - | 81% | 45% |
@@ -47,6 +48,7 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 
 # Reference
 * https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond
+* https://context.ai/compare/gemini-1-5-pro/gemini-flash (Gemini-Flash info)
 
 
 
