@@ -18,7 +18,7 @@ Source: [confident-ai.com](https://www.confident-ai.com/blog/llm-benchmarks-mmlu
 
 ## Claude 3 benchmarks
 
-| Model | Average | Multi-choice Qs <br> (MMLU) | Reasoning <br> (HellaSwag) | Python coding <br> (HumanEval) | Future Capabilities <br> (BBHard) | Grade school math <br> (GSM-8k) | Math Problems <br> (MATH) |
+| Model | Average | Multi-choice<br> (MMLU) | Reasoning <br> (HellaSwag) | Python coding <br> (HumanEval) | Future Capabilities <br> (BBHard) | Grade school math <br> (GSM-8k) | Math Problems <br> (MATH) |
 |---|---|---|---|---|---|---|---|
 | Claude 3.5 Sonnet | 88.38% | 88.70% | 89.00% | 92.00% | 93.10% | 96.40% | 71.10% |
 | Claude 3 Opus | 84.83% | 86.80% | 95.40% | 84.90% | 86.80% | 95.00% | 60.10% |
