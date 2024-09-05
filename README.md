@@ -4,7 +4,7 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 
 | Capability | Benchmark | Description |
 |---|---|---|
-| General | MMLU | Representation of questions in 57 subjects (incl. STEM, humanities, and others) |
+| General | MMLU | Multiple Choice. Representation of questions in 57 subjects (incl. STEM, humanities, and others) |
 | Reasoning | Big-Bench Hard | Diverse set of challenging tasks requiring multi-step reasoning |
 |  | DROP | Reading comprehension (F1 Score) |
 |  | HellaSwag | Commonsense reasoning for everyday tasks |
