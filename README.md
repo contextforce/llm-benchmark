@@ -10,13 +10,21 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 |  | HellaSwag | Commonsense reasoning for everyday tasks |-|
 | Math | GSM8K | Basic arithmetic manipulations (incl. Grade School math problems) |-|
 |  | MATH | Challenging math problems (incl. algebra, geometry, pre-calculus, and others) |-|
-| Code | HumanEval | Python code generation |-|
+| Code | HumanEval | Python code generation |[DataSet](https://paperswithcode.com/dataset/humaneval)|
 |  | Natural2Code | Python code generation. New held out dataset HumanEval-like, not leaked on the web |-|
 
 ## MMLU
+![image](https://github.com/user-attachments/assets/d2e52ce5-fe28-4398-8b13-5df4b79bf930)
+
 ## HellaSwag
+![image](https://github.com/user-attachments/assets/9cef8447-b174-42aa-adbc-7b78bb12af9b)
+
 ## MATH
+## BBHard
+![image](https://github.com/user-attachments/assets/c8e5c863-62d1-4ad0-99e9-af07fa191a68)
+
 ## HumanEval
+
 
 <br>
 <br>
