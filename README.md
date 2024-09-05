@@ -9,7 +9,7 @@ Source: [confident-ai.com](https://www.confident-ai.com/blog/llm-benchmarks-mmlu
 |---|---|---|---|---|---|---|---|
 | Undergraduate level knowledge MMLU | 86.8% 5-shot | 79.0% 5-shot | 75.2% 5-shot | 86.4% 5-shot | 70.0% 5-shot | 83.7% 5-shot | 71.8% 5-shot |
 | Graduate level reasoning  GPQA, Diamond | 50.4% 0-shot CoT | 40.4% 0-shot CoT | 33.3% 0-shot CoT | 35.7% 0-shot CoT | 28.1% 0-shot CoT | - | - |
-| Grade school math GSM8K | 95.0% 0-shot CoT | 92.3% 0-shot CoT | 88.9% 0-shot CoT | 92.0% 5-shot CoT | 57.1% 5-shot | 94.4% Majl@32 | 86.5% Majl@32 |
+| **Grade school math**<br>GSM8K | 95.0% 0-shot CoT | 92.3% 0-shot CoT | 88.9% 0-shot CoT | 92.0% 5-shot CoT | 57.1% 5-shot | 94.4% Majl@32 | 86.5% Majl@32 |
 | Math problem-solving MATH | 60.1% 0-shot CoT | 43.1% 0-shot CoT | 38.9% 0-shot CoT | 52.9% 4-shot | 34.1% 4-shot | 53.2% 4-shot | 32.6% 4-shot |
 | Multilingual math MGSM | 90.7% 0-shot | 83.5% 0-shot | 75.1% 0-shot | 74.5% 5-shot | - | 79.0% 0-shot | 63.5% 0-shot |
 | Code HumanEval | 84.9% 0-shot | 73.0% 0-shot | 75.9% 0-shot | 67.0% 0-shot | 48.1% 0-shot | 74.4% 0-shot | 67.7% 0-shot |
