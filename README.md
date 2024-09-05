@@ -20,6 +20,10 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 ![image](https://github.com/user-attachments/assets/9cef8447-b174-42aa-adbc-7b78bb12af9b)
 
 ## MATH
+
+## Chat Arena
+![image](https://github.com/user-attachments/assets/251896dc-38d8-49d7-a7e1-d312c89fc578)
+
 ## BBHard
 ![image](https://github.com/user-attachments/assets/c8e5c863-62d1-4ad0-99e9-af07fa191a68)
 
