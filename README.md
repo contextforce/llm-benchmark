@@ -2,14 +2,18 @@
 # Benchmark Category
 There are 8 key LLM Benchmarks across the 4 most critical domains (Language Understanding, Reasoning, Coding, and Conversation). These benchmarks are widely utilized in industry applications and are frequently cited in technical reports. They include:
 
-* **TruthfulQA** — Truthfulness
-* **MMLU** — Language understanding
-* **HellaSwag** — Commonsense reasoning
-* **BIG-Bench Hard** — Challenging reasoning tasks
-* **HumanEval** — Coding challenges
-* **CodeXGLUE** — Programming tasks
-* **Chatbot Arena** — Human-ranked ELO-based benchmark
-* **MT Bench** — Complex conversational ability
+| Capability | Benchmark | Description |
+|---|---|---|
+| General | MMLU | Representation of questions in 57 subjects (incl. STEM, humanities, and others) |
+| Reasoning | Big-Bench Hard | Diverse set of challenging tasks requiring multi-step reasoning |
+|  | DROP | Reading comprehension (F1 Score) |
+|  | HellaSwag | Commonsense reasoning for everyday tasks |
+| Math | GSM8K | Basic arithmetic manipulations (incl. Grade School math problems) |
+|  | MATH | Challenging math problems (incl. algebra, geometry, pre-calculus, and others) |
+| Code | HumanEval | Python code generation |
+|  | Natural2Code | Python code generation. New held out dataset HumanEval-like, not leaked on the web |
+
+
 
 ![image](https://github.com/user-attachments/assets/4e4abbe2-e673-4f33-82f8-f0d76fc63e5f)
 Source: [confident-ai.com](https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond)
