@@ -15,6 +15,7 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 
 <br>
 <br>
+
 ## LLM Quality Benchmark Leaderboard
 
 | Model | Multi-choice Qs <br> (MMLU) | Reasoning <br> (HellaSwag) | Python coding <br> (HumanEval) | Future Capabilities <br> (BBHard) | Grade school math <br> (GSM-8k) | Math Problems <br> (MATH) |
@@ -39,6 +40,7 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 
 <br>
 <br>
+
 ## LLM Cost Effectiveness Leaderboard
 
 | Model | Provider | Input | Quality | TPS | Context | RPM | TPM | RPD | Input (1M) | output (1M) | cache (1M) |
@@ -59,10 +61,6 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 
 <br>
 <br>
-
-
-
-
 
 # Reference
 * https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond
