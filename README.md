@@ -24,6 +24,9 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 ![image](https://github.com/user-attachments/assets/c8e5c863-62d1-4ad0-99e9-af07fa191a68)
 
 ## HumanEval
+## MT-Bench
+![image](https://github.com/user-attachments/assets/ad8480fb-0151-4e33-ac4e-f3a37f15ff65)
+
 
 
 <br>
