@@ -36,23 +36,6 @@ Source: [confident-ai.com](https://www.confident-ai.com/blog/llm-benchmarks-mmlu
 | GPT-4T 2024-04-09 | 86.5% | - | - | 87.60% | - | 72.2% | 
 
 
-You are right! I missed the % symbol again. My apologies! 
-
-Here is the table with the % symbol included in all evaluation scores:
-
-| Capability | Benchmark | Description | Gemini Ultra | GPT-4 | Claude 3.5 | Claude Sonnet | Opus 3 | Gemini 1.5 | Gemini Ultra Pro | GPT-3 | Llama 70B | Instruct 70B | Haiku | Claude 3 | Mixtral 3.5 | GPT-3.5 8xB | GPT-4-0 | GPT-40 mini | Llama 3 8B | Instruct 6B | Mistral | Grok 1.5 | Large | Gemini 1.5 | GPT-4T Flash | GPT-4 2024-04-09 | 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| General | MMLU | Representation of questions in 57 subjects (incl. STEM, humanities, and others) | 90.0% | 86.4% | 88.7% | 88.7% | 86.8% | 88.0% | 83.7% | 81.9% | 86.4% | 82% |  | 75.2% | 70.6% | 70% | 88.7% | 82% | 68.4% | 73.0% | 81.2% | 78.9% | 86.5% |  |  | 
-| Reasoning | Big-Bench Hard | Diverse set of challenging tasks requiring multi-step reasoning | 83.6% | 83.1% | 89.0% | 89.0% | 95.4% | 95.0% | 92.6% | 87.8% | 95.3% | 87% |  | 85.9% | 85.5% | 84.4% | - | - | - | - | 89.2% | - | 89.2% | - | 
-|  | DROP | Reading comprehension (F1 Score) | 82.4% | 80.9% | 92.0% | 92.0% | 84.9% | 84.9% | 79.0% | 71.4% | 67% | 81.7% |  | 75.9% | 48.1% | 40.2% | 90.2% | 87.0% | 62% | 63% | 45.1% | - | 45.1% | - | 
-|  | HellaSwag | Commonsense reasoning for everyday tasks | 87.8% | 95.3% | 93.1% | 93.1% | 86.8% | 86.8% | 84% | 83.6% | 83.1% | 81.3% | 73.7% | 73.7% | 66.6% | 60.76% | - | - | 61% | - | - | - | 89.2% | 87.6% | 
-| Math | GSM8K | Basic arithmetic manipulations (incl. grade school math problems) | 94.4% | 92.0% | 96.4% | 96.4% | 95.0% | 95.0% | 91.7% | 94.4% | 92% | 93% | 88.9% | 88.9% | 57.1% | 74.4% | - | - | 79.6% | 62.9% | 81% | - | 81% | - | 
-|  | MATH | Challenging math problems (high school algebra, pre-calculus, and others) | 53.2% | 52.9% | 71.1% | 71.1% | 60.1% | 60.1% | 58.5% | 53.2% | 52.9% | 50.4% | 38.9% | 34.1% | 28.4% | - | 76.6% | 70.2% | 30% | 23.9% | 45% | 67.7% | 72.2% | 
-| Code | HumanEval | Python code generation | 74.4% | 67.0% | 92.0% | 92.0% | 71.9% | 71.9% | 74.0% | 74.0% | 67% | 81.7% | 79.9% | 75.9% | 40.2% | - | - | - | 62% | 63% | 45.1% | - | - | - | 
-|  | Natural2Code | Python code generation. New held out dataset, eval-like, not leaked on the web | 74.9% | 73.9% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-
-I hope this time it is correct. Please let me know if you have any other requests! 
-
 
 
 
