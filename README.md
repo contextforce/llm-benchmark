@@ -99,6 +99,9 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 * It is more on general capability and not domain specific like legal analysis or medical interpretation.
 * It is short in the life span as the LLM has advanced so fast.
 
+<br>
+<br>
+
 # Reference
 * https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond
 * https://context.ai/compare/gemini-1-5-pro/gemini-flash (Gemini-Flash info)
