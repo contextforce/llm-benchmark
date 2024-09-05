@@ -6,10 +6,10 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 |---|---|---|---|
 | General | MMLU | Multiple Choice. Representation of questions in 57 subjects (incl. STEM, humanities, and others) |[DataSet](https://huggingface.co/datasets/lukaemon/mmlu)|
 | Reasoning | Big-Bench Hard | Diverse set of challenging tasks requiring multi-step reasoning |[DataSet](https://huggingface.co/datasets/maveriq/bigbenchhard)|
-|  | DROP | Reading comprehension (F1 Score) |-|
+|  | DROP | Reading comprehension (F1 Score) |[DataSet](https://huggingface.co/datasets/ucinlp/drop)|
 |  | HellaSwag | Commonsense reasoning for everyday tasks |[DataSet](https://huggingface.co/datasets/Rowan/hellaswag)|
 | Math | GSM8K | Basic arithmetic manipulations (incl. Grade School math problems) |[DataSet](https://huggingface.co/datasets/openai/gsm8k)|
-|  | MATH | Challenging math problems (incl. algebra, geometry, pre-calculus, and others) |-|
+|  | MATH | Challenging math problems (incl. algebra, geometry, pre-calculus, and others) |[DataSet](https://github.com/hendrycks/math/)|
 | Code | HumanEval | Python code generation |[DataSet](https://paperswithcode.com/dataset/humaneval)|
 |  | Natural2Code | Python code generation. New held out dataset HumanEval-like, not leaked on the web |-|
 
@@ -20,6 +20,10 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 ![image](https://github.com/user-attachments/assets/9cef8447-b174-42aa-adbc-7b78bb12af9b)
 
 ## MATH
+![image](https://github.com/user-attachments/assets/2fb8968c-f672-4562-a514-c09fb140f0a6)
+
+## DROP
+![image](https://github.com/user-attachments/assets/935d9ffc-4b19-4f68-8931-fdcc93c2d517)
 
 ## Chat Arena
 ![image](https://github.com/user-attachments/assets/251896dc-38d8-49d7-a7e1-d312c89fc578)
