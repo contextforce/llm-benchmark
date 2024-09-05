@@ -32,7 +32,7 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 | Llama 3 Instruct - 8B | 68.40% | - | 62% | 61% | 79.60% | 30% |
 | Grok 1.5 | 73.00% | - | 63% | - | 62.90% | 23.90% |
 | Mistral Large | 81.2% | 89.2% | 45.1% | - | 81% | 45% |
-| Gemini 1.5 Flash | 78.90% | - | - | 89.20% | - | 67.70% |
+| Gemini 1.5 Flash | 78.90% | 86.5% | 74.3| 85.50% | 86.2 | 54.9% |
 | GPT-4T 2024-04-09 | 86.5% | - | - | 87.60% | - | 72.2% | 
 
 
