@@ -14,10 +14,6 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 |  | Natural2Code | Python code generation. New held out dataset HumanEval-like, not leaked on the web |
 
 
-
-![image](https://github.com/user-attachments/assets/4e4abbe2-e673-4f33-82f8-f0d76fc63e5f)
-Source: [confident-ai.com](https://www.confident-ai.com/blog/llm-benchmarks-mmlu-hellaswag-and-beyond)
-
 ## LLM Benchmark Leaderboard
 
 | Model | Multi-choice Qs <br> (MMLU) | Reasoning <br> (HellaSwag) | Python coding <br> (HumanEval) | Future Capabilities <br> (BBHard) | Grade school math <br> (GSM-8k) | Math Problems <br> (MATH) |
