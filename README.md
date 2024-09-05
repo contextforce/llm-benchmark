@@ -16,16 +16,28 @@ Source: [confident-ai.com](https://www.confident-ai.com/blog/llm-benchmarks-mmlu
 
 ## LLM Benchmark Leaderboard
 
-| Task | Claude 3 Opus | Claude 3 Sonnet | Claude 3 Haiku | GPT-4 | GPT-3.5 | Gemini 1.0 Ultra | Gemini 1.0 Pro |
+## Claude 3 benchmarks
+
+| Model | Average | Multi-choice Qs <br> (MMLU) | Reasoning <br> (HellaSwag) | Python coding <br> (HumanEval) | Future Capabilities <br> (BBHard) | Grade school math <br> (GSM-8k) | Math Problems <br> (MATH) |
 |---|---|---|---|---|---|---|---|
-| **Undergraduate level knowledge** <br> MMLU | 86.8% | 79.0% | 75.2% | 86.4% | 70.0% | 83.7% | 71.8% |
-| **Graduate level reasoning** <br> GPQA, Diamond | 50.4% | 40.4% | 33.3% | 35.7% | 28.1% | - | - |
-| **Grade school math** <br> GSM8K | 95.0% | 92.3% | 88.9% | 92.0% | 57.1% | 94.4% | 86.5% |
-| **Math problem-solving** <br> MATH | 60.1% | 43.1% | 38.9% | 52.9% | 34.1% | 53.2% | 32.6% |
-| **Multilingual math** <br> MGSM | 90.7% | 83.5% | 75.1% | 74.5% | - | 79.0% | 63.5% |
-| **Code** <br> HumanEval | 84.9% | 73.0% | 75.9% | 67.0% | 48.1% | 74.4% | 67.7% |
-| **Reasoning over text** <br> DROP, F1 score | 83.1 | 78.9 | 78.4 | 80.9 | 64.1 | 82.4 | 74.1 |
-| **Mixed evaluations** <br> BIG-Bench-Hard | 86.8% | 82.9% | 73.7% | 83.1% | 66.6% | 83.6% | 75.0% | 
+| Claude 3.5 Sonnet | 88.38% | 88.70% | 89.00% | 92.00% | 93.10% | 96.40% | 71.10% |
+| Claude 3 Opus | 84.83% | 86.80% | 95.40% | 84.90% | 86.80% | 95.00% | 60.10% |
+| Gemini 1.5 Pro | 80.08% | 81.90% | 92.50% | 71.90% | 84% | 91.70% | 58.50% |
+| Gemini Ultra | 79.52% | 83.70% | 87.80% | 74.40% | 83.60% | 94.40% | 53.20% |
+| GPT-4 | 79.45% | 86.40% | 95.30% | 67% | 83.10% | 92% | 52.90% |
+| Llama 3 Instruct - 70B | 79.23% | 82% | 87% | 81.7% | 81.3% | 93% | 50.4% |
+| Claude 3 Haiku | 73.08% | 75.20% | 85.90% | 75.90% | 73.70% | 88.90% | 38.90% |
+| GPT-3.5 | 65.46% | 70% | 85.50% | 48.10% | 66.60% | 57.10% | 34.1% |
+| Mixtral 8x7B | 59.79% | 70.60% | 84.40% | 40.20% | 60.76% | 74.40% | 28.40% |
+| GPT-4o | - | 88.7% | - | 90.2% | - | - | 76.60% |
+| GPT-4o mini | - | 82% | - | 87.00% | - | - | 70.20% |
+| Llama 3 Instruct - 8B | - | 68.40% | - | 62% | 61% | 79.60% | 30% |
+| Grok 1.5 | - | 73.00% | - | 63% | - | 62.90% | 23.90% |
+| Mistral Large | - | 81.2% | 89.2% | 45.1% | - | 81% | 45% |
+| Gemini 1.5 Flash | - | 78.90% | - | - | 89.20% | - | 67.70% |
+| GPT-4T 2024-04-09 | - | 86.5% | - | - | 87.60% | - | 72.2% | 
+
+
 
 
 # Reference
