@@ -30,13 +30,24 @@ Give me the SVG code for a smiley. It should be simple. Reply with only the vali
 <br>
 <br>
 
-# Reasoning
+# Logical Thinking
 
 ## Question: How many sisters?
 ```
 Sally (a girl) has 3 brothers. Each brother has 2 sisters. How many sisters does Sally have? Let's think step by step.
 ```
 * Correct answer is 1
+
+## Question: How many killers?
+```
+There are three killers in a room. Someone enters the room and kills one of them. Nobody leaves the room. How many killers are left in the room? Explain your reasoning step by step.
+```
+* 3 killers alive but 1 was killed and dead
+  
+## Question: Marble 
+```
+A marble is put in a glass cup. The glass is then turned upside down and put on a table. Then the glass is picked up and put in a microwave. Where's the marble? Explain your reasoning step by step.
+```
 
 <br>
 <br>
