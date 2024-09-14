@@ -18,12 +18,17 @@ Write a six line poem about squirrels playing koalas at soccer that meets the fo
 ```
 * gpt-4o answers it wrongly.
 
+<br>
+<br>
+
 # Coding
 
 ## Question: Give me SVG code 
 ```
 Give me the SVG code for a smiley. It should be simple. Reply with only the valid SVG code and nothing else.
 ```
+<br>
+<br>
 
 # Reasoning
 
@@ -32,6 +37,9 @@ Give me the SVG code for a smiley. It should be simple. Reply with only the vali
 Sally (a girl) has 3 brothers. Each brother has 2 sisters. How many sisters does Sally have? Let's think step by step.
 ```
 * Correct answer is 1
+
+<br>
+<br>
 
 # Semantic Understanding
 
