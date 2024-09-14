@@ -28,3 +28,9 @@ Give me the SVG code for a smiley. It should be simple. Reply with only the vali
 Sally (a girl) has 3 brothers. Each brother has 2 sisters. How many sisters does Sally have? Let's think step by step.
 ```
 * Correct answer is 1
+
+## Question 5: Entity Recognition
+```
+Extract the name of the vendor from the invoice: PURCHASE #0521 NIKE XXX3846. Reply with only the name.
+```
+* Nike
