@@ -10,42 +10,12 @@ Write a six line poem about squirrels playing koalas at soccer that meets the fo
 ```
 * gpt-4o answers it wrongly.
 
-
-# Logical Reasoning Tests
-
-<br>
-<br>
-
-## Question: Counting character or words
-GPT is trained with sub-word not characters or full word. So, it will have challenges to deal with the following questions.
-```
-how many 'r' in "strawberry"?
-```
-* gpt-4o answer: 2 (wrong)
-
-
-<br>
-<br>
-
-# Safety Tests
-
-
-
-
-
-<br>
-<br>
-
-# Coding
-
 ## Question: Give me SVG code 
 ```
 Give me the SVG code for a smiley. It should be simple. Reply with only the valid SVG code and nothing else.
 ```
-<br>
-<br>
 
-# Logical Thinking
+# Logical Reasoning Tests
 
 ## Question: How many sisters?
 ```
@@ -67,6 +37,23 @@ A marble is put in a glass cup. The glass is then turned upside down and put on 
 ```
 Imagine standing at the North Pole of the Earth. Walk in any direction, in a straight line, for 1 km. Now turn 90 degrees to the left. Walk for as long as it takes to pass your starting point. Have you walked: 1. More than 2xPi km 2. Exactly 2xPi km 3. Less than 2xPi km 4. I never came close to my starting point.
 ```
+
+<br>
+<br>
+
+
+## Question: Counting character or words
+GPT is trained with sub-word not characters or full word. So, it will have challenges to deal with the following questions.
+```
+how many 'r' in "strawberry"?
+```
+* gpt-4o answer: 2 (wrong)
+
+
+<br>
+<br>
+
+# Safety Tests
 
 <br>
 <br>
