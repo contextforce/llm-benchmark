@@ -41,10 +41,6 @@ A marble is put in a glass cup. The glass is then turned upside down and put on 
 Imagine standing at the North Pole of the Earth. Walk in any direction, in a straight line, for 1 km. Now turn 90 degrees to the left. Walk for as long as it takes to pass your starting point. Have you walked: 1. More than 2xPi km 2. Exactly 2xPi km 3. Less than 2xPi km 4. I never came close to my starting point.
 ```
 
-<br>
-<br>
-
-
 ## Question: Counting character or words
 GPT is trained with sub-word not characters or full word. So, it will have challenges to deal with the following questions.
 ```
