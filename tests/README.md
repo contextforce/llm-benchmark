@@ -1,12 +1,4 @@
-# SEO Testing
-
-## Question: Counting character or words
-GPT is trained with sub-word not characters or full word. So, it will have challenges to deal with the following questions.
-```
-how many 'r' in "strawberry"?
-```
-* gpt-4o answer: 2 (wrong)
-
+# Programming Tests
 ## Question: Follow instructions/ restriction for writing
 This challenge gpt-4o as it needs to do the first trial and cannot lookback and fix.
 ```
@@ -17,6 +9,29 @@ Write a six line poem about squirrels playing koalas at soccer that meets the fo
 - In the final line, each word has 2 syllables.
 ```
 * gpt-4o answers it wrongly.
+
+
+# Logical Reasoning Tests
+
+<br>
+<br>
+
+## Question: Counting character or words
+GPT is trained with sub-word not characters or full word. So, it will have challenges to deal with the following questions.
+```
+how many 'r' in "strawberry"?
+```
+* gpt-4o answer: 2 (wrong)
+
+
+<br>
+<br>
+
+# Safety Tests
+
+
+
+
 
 <br>
 <br>
