@@ -21,6 +21,8 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 |  | Natural2Code | Python code generation. New held out dataset HumanEval-like, not leaked on the web |-|
 | Visual Q/A | MMMU | Python code generation |[DataSet](https://paperswithcode.com/dataset/humaneval)|
 
+<br/>
+<br/>
 ### MMLU
 ![image](https://github.com/user-attachments/assets/d2e52ce5-fe28-4398-8b13-5df4b79bf930)
 <br>
