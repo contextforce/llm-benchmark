@@ -15,8 +15,10 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 | General | MMLU | Multiple Choice. Representation of questions in 57 subjects (incl. STEM, humanities, and others) |[DataSet](https://huggingface.co/datasets/lukaemon/mmlu)|
 | Math | GSM8K | Basic arithmetic manipulations (incl. Grade School math problems) |[DataSet](https://huggingface.co/datasets/openai/gsm8k)|
 |  | MATH | Challenging math problems (incl. algebra, geometry, pre-calculus, and others) |[DataSet](https://github.com/hendrycks/math/)|
+|  | AIME-2024| High school math competition  |-|
 | Code | HumanEval | Python code generation |[DataSet](https://paperswithcode.com/dataset/humaneval)|
 |  | Natural2Code | Python code generation. New held out dataset HumanEval-like, not leaked on the web |-|
+| Visual Q/A | MMMU | Python code generation |[DataSet](https://paperswithcode.com/dataset/humaneval)|
 
 ### MMLU
 ![image](https://github.com/user-attachments/assets/d2e52ce5-fe28-4398-8b13-5df4b79bf930)
