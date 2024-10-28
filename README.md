@@ -6,7 +6,6 @@
 * **Best for Speed Reasoning** -
 * **Best for Cost Saving** - 
 <br/>
-<br/>
 
 ## State of Art (updated 10/27/2024)
 <img width="1072" alt="Screenshot 2024-10-27 at 5 23 12 PM" src="https://github.com/user-attachments/assets/15a636e7-f17d-4675-9103-c0d92fe4ca2f">
