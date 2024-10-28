@@ -1,6 +1,6 @@
 # What is LLM Benchmark
 ## Models We Love
-* **Best for Coding** - Claude Sonnet 3.5
+* **Best for Coding** - Claude Sonnet 3.5 (Oct)
 * **Best for Writing** - GPT-4o
 * **Best for OCR** - Gemini 1.5 Flash/ Pro
 * **Best for Speed Reasoning** -
