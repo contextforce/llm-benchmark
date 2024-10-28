@@ -7,6 +7,13 @@
 * **Best for Cost Saving** - 
 <br/>
 
+## Top LLM Model Comparison
+<img width="1342" alt="Screenshot 2024-10-27 at 9 49 11 PM" src="https://github.com/user-attachments/assets/ba73d1cf-1c17-4a97-97dd-360ccf827794">
+
+<img width="903" alt="Screenshot 2024-10-27 at 9 50 03 PM" src="https://github.com/user-attachments/assets/a56be7e2-b221-40b1-8a99-545b3a85fb58">
+
+<img width="859" alt="Screenshot 2024-10-27 at 9 50 34 PM" src="https://github.com/user-attachments/assets/c6328bf9-9d0f-4018-b263-b8a2895506a7">
+
 ## State of Art (updated 10/27/2024)
 <img width="1072" alt="Screenshot 2024-10-27 at 5 23 12 PM" src="https://github.com/user-attachments/assets/15a636e7-f17d-4675-9103-c0d92fe4ca2f">
 
