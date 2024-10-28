@@ -1,4 +1,4 @@
-# Programming Tests
+# Coding Skill Tests
 ## Question: Follow instructions/ restriction for writing
 This challenge gpt-4o as it needs to do the first trial and cannot lookback and fix.
 ```
