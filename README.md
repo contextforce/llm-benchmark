@@ -12,8 +12,7 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 |  | Big-Bench Hard | Diverse set of challenging tasks requiring multi-step reasoning |[DataSet](https://huggingface.co/datasets/maveriq/bigbenchhard)|
 |  | DROP | Reading comprehension (F1 Score) |[DataSet](https://huggingface.co/datasets/ucinlp/drop)|
 |  | HellaSwag | Commonsense reasoning for everyday tasks |[DataSet](https://huggingface.co/datasets/Rowan/hellaswag)|
-| General | MMLU | Multiple Choice. Representation of questions in 57 subjects (incl. STEM, humanities, and others) |[DataSet]
-(https://huggingface.co/datasets/lukaemon/mmlu)|
+| General | MMLU | Multiple Choice. Representation of questions in 57 subjects (incl. STEM, humanities, and others) |[DataSet](https://huggingface.co/datasets/lukaemon/mmlu)|
 |  | MMLU Pro | TBA |[DataSet]
 | Math | GSM8K | Basic arithmetic manipulations (incl. Grade School math problems) |[DataSet](https://huggingface.co/datasets/openai/gsm8k)|
 |  | MATH | Challenging math problems (incl. algebra, geometry, pre-calculus, and others) |[DataSet](https://github.com/hendrycks/math/)|
