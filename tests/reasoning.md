@@ -27,3 +27,12 @@ GPT is trained with sub-word not characters or full word. So, it will have chall
 how many 'r' in "strawberry"?
 ```
 * gpt-4o answer: 2 (wrong)
+
+## Question: Compare 2 numbers with decimal places
+Can GPT truly understand the meaning behind the decimal space?
+```
+Compare 0.9 and 0.11 and tell which one is larger?
+```
+
+
+
