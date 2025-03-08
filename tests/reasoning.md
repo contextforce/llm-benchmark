@@ -26,6 +26,7 @@ GPT is trained with sub-word not characters or full word. So, it will have chall
 ```
 how many 'r' in "strawberry"?
 ```
+* Correct answer is 3
 * gpt-4o answer: 2 (wrong)
 
 ## Question: Compare 2 numbers with decimal places
@@ -33,6 +34,13 @@ Can GPT truly understand the meaning behind the decimal space?
 ```
 Compare 0.9 and 0.11 and tell which one is larger?
 ```
+* Correct Answer is 0.9
+
+## Question: Round Table
+```
+8 persons A, B, C, D, E, F, G and H are sitting by a round table each facing the center. D is second to the left of F and third to the right of H. A is second to the right of F and an immediate neighbour of H. C is second to the right of B and F is third to the right of B. G is not an immediate neighbor of F. In the above information who is to the immediate left of A? answer the question
+```
+* Correct Answer is E
 
 
 
