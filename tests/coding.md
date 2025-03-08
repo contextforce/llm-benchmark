@@ -16,6 +16,7 @@ Give me the SVG code for a smiley. It should be simple. Reply with only the vali
 ```
 <br/>
 <br/>
+
 ## Question: Create a webpage
 
 ```
