@@ -45,7 +45,7 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 | Code | HumanEval | Python code generation |[DataSet](https://paperswithcode.com/dataset/humaneval)|
 |  | Natural2Code | Python code generation. New held out dataset HumanEval-like, not leaked on the web |-|
 |  | LiveCodeBench | LiveCodeBench problems are curated from coding competition platforms: LeetCode, AtCoder, and CodeForces. |[DataSet](https://huggingface.co/livecodebench)|
-| Visual Q/A | MMMU | Python code generation |[DataSet](https://paperswithcode.com/dataset/humaneval)|
+| Visual Q/A | MMMU | evaluates multimodal models on college-level knowledge and reasoning tasks. It includes 11.5K questions from exams, quizzes, and textbooks across six disciplines: Art & Design, Business, Science, Health & Medicine, Humanities & Social Science, and Tech & Engineering. |[DataSet](https://paperswithcode.com/dataset/humaneval)|
 
 
 <br/>
