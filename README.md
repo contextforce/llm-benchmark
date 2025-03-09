@@ -26,18 +26,11 @@
 <br/>
 
 ## Top LLM Model Comparison
+
+<img width="1370" alt="Screenshot 2025-03-08 at 9 06 31 PM" src="https://github.com/user-attachments/assets/defce740-574a-4521-8e4a-af58a73316d8" />
+
 <img width="1251" alt="Screenshot 2025-03-08 at 9 03 11 PM" src="https://github.com/user-attachments/assets/e66cac92-a4c8-4903-97bf-c2ec8b5c5d6a" />
 
-
-
-<img width="1342" alt="Screenshot 2024-10-27 at 9 49 11 PM" src="https://github.com/user-attachments/assets/ba73d1cf-1c17-4a97-97dd-360ccf827794">
-
-<img width="903" alt="Screenshot 2024-10-27 at 9 50 03 PM" src="https://github.com/user-attachments/assets/a56be7e2-b221-40b1-8a99-545b3a85fb58">
-
-<img width="859" alt="Screenshot 2024-10-27 at 9 50 34 PM" src="https://github.com/user-attachments/assets/c6328bf9-9d0f-4018-b263-b8a2895506a7">
-
-## State of Art (updated 10/27/2024)
-<img width="1072" alt="Screenshot 2024-10-27 at 5 23 12 PM" src="https://github.com/user-attachments/assets/15a636e7-f17d-4675-9103-c0d92fe4ca2f">
 
 ## Benchmark Category
 There are 8 key LLM Benchmarks across the 4 most critical domains (Language Understanding, Reasoning, Coding, and Conversation). These benchmarks are widely utilized in industry applications and are frequently cited in technical reports. They include:
