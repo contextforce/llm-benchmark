@@ -17,10 +17,12 @@
 <br/>
 
 ## Highlights
+* **qwq-32B** - This model is from Alibaba that is at the level of DeepSeek R1 but it is only at 32B parameters (much smaller than DeepSeek R1) - 3/8/2025
+* **deepseek R1** - This model 
 * **llama-3.2-90B** model falls short in reasoning comparing to frontier models but it has vision and 128k context window. Among the free models, it is the best you can find. As of tody, many providers released **llama-3.1-70B** instead. If you are interested, try "**llama-3.1-nemotron-70b-instruct**" from Nivida.
 * **llama-3.1-8B-Instant-128k** from Groq can produce 750 token/sec at **I:$0.05/1M, O:$0.08/M** tokens. It is great for speed reasoning.
 * **gemini-1.5-flash** is a surprise to the market. It has good quality, 1M context window size, fast and cost-effective. Paid version allows you to reach 2k requests/minute with 4M TPM. That is way above all models in the market in terms of speed and context size. - **I:$0.075/1M, O:$0.3/M**
-* 
+
 <br/>
 
 ## Top LLM Model Comparison
