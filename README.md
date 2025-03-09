@@ -1,4 +1,5 @@
 # What is LLM Benchmark
+
 ## Models We Love
 * **Best for Coding** - Claude Sonnet 3.5 (Oct)
 * **Best for Writing** - GPT-4o
@@ -6,6 +7,11 @@
 * **Best for Speed Reasoning** -
 * **Best for Cost Saving** -
 <br/>
+## Benchmarks
+* **GPQA** (Graduate-Level Google-Proof Q&A)
+* **AIME** (American Invitational Mathematics Examination)
+* **MATH-500**
+* **LiveCodeBench**
 
 ## Highlights
 * **llama-3.2-90B** model falls short in reasoning comparing to frontier models but it has vision and 128k context window. Among the free models, it is the best you can find. As of tody, many providers released **llama-3.1-70B** instead. If you are interested, try "**llama-3.1-nemotron-70b-instruct**" from Nivida.
