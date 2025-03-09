@@ -52,6 +52,7 @@ There are 8 key LLM Benchmarks across the 4 most critical domains (Language Unde
 |  | AIME-2024| High school math competition  |-|
 | Code | HumanEval | Python code generation |[DataSet](https://paperswithcode.com/dataset/humaneval)|
 |  | Natural2Code | Python code generation. New held out dataset HumanEval-like, not leaked on the web |-|
+|  | LiveCodeBench |  |-|
 | Visual Q/A | MMMU | Python code generation |[DataSet](https://paperswithcode.com/dataset/humaneval)|
 
 
