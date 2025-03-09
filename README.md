@@ -14,6 +14,8 @@
 * **MATH-500**
 * **LiveCodeBench**
 
+<br/>
+
 ## Highlights
 * **llama-3.2-90B** model falls short in reasoning comparing to frontier models but it has vision and 128k context window. Among the free models, it is the best you can find. As of tody, many providers released **llama-3.1-70B** instead. If you are interested, try "**llama-3.1-nemotron-70b-instruct**" from Nivida.
 * **llama-3.1-8B-Instant-128k** from Groq can produce 750 token/sec at **I:$0.05/1M, O:$0.08/M** tokens. It is great for speed reasoning.
