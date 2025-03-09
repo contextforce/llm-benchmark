@@ -6,6 +6,7 @@
 * **Best for OCR** - Gemini 1.5 Flash/ Pro
 * **Best for Speed Reasoning** - qwq 32B (groq)
 * **Best for Cost Saving** - gemini-2.0-flash
+* **Best for Latency** - gemini-2.0-flash
 <br/>
 
 ## Highlights
@@ -15,7 +16,7 @@
 * **claude sonnet 3.7** (close) - best in coding
 * **openai-o1** (close) 
 * **openai-o3-mini** (close) 
-* **gemini-2.0-flash** (close) 
+* **gemini-2.0-flash** (close) - fast and cheap
 * **llama-3.2-90B** (open) - it falls short in reasoning comparing to frontier models but it has vision and 128k context window. Among the free models, it is the best you can find. As of tody, many providers released **llama-3.1-70B** instead. If you are interested, try "**llama-3.1-nemotron-70b-instruct**" from Nivida.
 
 <br/>
